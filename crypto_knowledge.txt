@@ -33,5 +33,3 @@ A funding rate is a periodic payment exchanged between long and short traders in
 Volatility measures how much and how quickly an asset's price moves. Cryptocurrencies are known for high volatility, meaning large price swings over short periods. Higher volatility means greater potential profit but also greater risk, and it increases the chance of both slippage and liquidation.
 
 Risk management is the practice of limiting how much you can lose on any single trade. A common guideline is to risk only a small percentage of your account, often 1 to 2 percent, on each trade. Position sizing — choosing how large a trade to make based on your stop-loss distance and your risk limit — is the main tool for this. The goal is to survive losing streaks and stay in the game.
-
-The risk/reward ratio compares how much you stand to lose against how much you stand to gain on a trade. A 1:3 risk/reward means risking 1 dollar to potentially make 3. A favorable risk/reward ratio can keep a trader profitable overall even with a win rate below 50 percent, because the winners outweigh the losers.
