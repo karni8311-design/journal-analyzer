@@ -1,7 +1,9 @@
+import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
 import streamlit as st
 import chromadb
 import anthropic
-import os
 from dotenv import load_dotenv
 
 # --- API key: .env locally, st.secrets when deployed ---
