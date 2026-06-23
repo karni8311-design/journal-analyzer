@@ -1,4 +1,7 @@
 streamlit
 anthropic
 python-dotenv
-chromadb
+chromadb==1.5.9
+protobuf==6.33.6
+grpcio==1.81.1
+opentelemetry-proto==1.42.1
