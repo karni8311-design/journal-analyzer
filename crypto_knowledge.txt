@@ -1,0 +1,37 @@
+Cryptocurrency is a digital asset that runs on a blockchain, a shared public ledger maintained by a decentralized network of computers rather than a single bank or company. Transactions are grouped into blocks and confirmed by the network, which makes the record very hard to alter. Bitcoin and Ethereum are the two largest cryptocurrencies by market value.
+
+A centralized exchange (CEX) is a company that lets users buy, sell, and trade crypto through its platform while holding custody of their funds. Examples include Binance, Coinbase, and Kraken. CEXs are easy to use and usually have high liquidity, but because they hold your assets you are trusting the company's security and solvency. The phrase "not your keys, not your coins" warns that funds sitting on an exchange are not fully under your own control.
+
+A decentralized exchange (DEX) lets users trade directly from their own wallets using smart contracts, with no company holding their funds. Examples include Uniswap and PancakeSwap. DEXs give users custody and privacy, but they can have higher fees during network congestion, lower liquidity for small tokens, and a steeper learning curve.
+
+A market order buys or sells immediately at the best available current price. It prioritizes speed of execution over price, so it fills right away, but the exact fill price is not guaranteed — especially in fast-moving or thin markets.
+
+A limit order buys or sells only at a price you specify or better. A buy limit fills at your limit price or lower; a sell limit fills at your limit price or higher. Limit orders give you price control, but they may never fill if the market does not reach your price.
+
+A stop order, often used as a stop-loss, is an instruction that becomes active only when the price reaches a trigger level. A stop-loss is commonly used to automatically sell a position if the price falls to a set level, limiting further losses. Once triggered, it usually executes as a market order.
+
+An order book is the live list of all current buy orders (bids) and sell orders (asks) for an asset on an exchange. The highest bid and the lowest ask sit at the top, and the gap between them is the spread. The order book shows where buyers and sellers are willing to trade and how much volume rests at each price level.
+
+The bid is the highest price buyers are currently willing to pay, and the ask (or offer) is the lowest price sellers are willing to accept. The difference between them is the spread. A narrow spread usually signals a liquid, actively traded market, while a wide spread suggests low liquidity.
+
+Liquidity is how easily an asset can be bought or sold without moving its price much. A liquid market has many buyers and sellers and large order sizes at each price level, so trades fill quickly and near the quoted price. Low liquidity means even a modest order can move the price significantly.
+
+Slippage is the difference between the price you expected and the price your order actually fills at. It happens when there is not enough liquidity at your target price, so the order fills against worse prices further down the order book. Slippage tends to be larger for big orders, in low-liquidity markets, and during high volatility. Limit orders avoid slippage but carry the risk of not filling.
+
+Spot trading means buying or selling the actual asset for immediate delivery — you own the coins. Derivatives are contracts whose value is based on an underlying asset's price; you trade the price movement without necessarily owning the asset itself. Futures and perpetual swaps are common crypto derivatives.
+
+Leverage lets a trader control a position larger than their own capital by borrowing from the exchange. With 10x leverage, 100 dollars of your own money (the margin) controls a 1,000 dollar position. Leverage multiplies both gains and losses: a small move in your favor is amplified, but so is a move against you. The higher the leverage, the smaller the adverse move needed to wipe out your margin.
+
+Margin is the trader's own capital put up to open and maintain a leveraged position. Initial margin is what is required to open the position, while maintenance margin is the minimum equity needed to keep it open. If your equity falls below the maintenance margin, the position is at risk of liquidation.
+
+Going long means buying an asset because you expect its price to rise; you profit if it goes up. Going short means selling a borrowed asset because you expect its price to fall, then buying it back cheaper; you profit if it goes down. Derivatives make it easy to take short positions without owning the asset first.
+
+Liquidation happens when a leveraged position loses so much value that the trader's margin can no longer cover the losses, so the exchange forcibly closes the position. The liquidation price is the price level at which this occurs. Higher leverage moves the liquidation price closer to the entry price, leaving less room for the market to move against you before you are liquidated.
+
+A funding rate is a periodic payment exchanged between long and short traders in perpetual futures markets, used to keep the contract price close to the underlying spot price. When the funding rate is positive, longs pay shorts; when it is negative, shorts pay longs. It acts as a recurring cost or income of holding a perpetual position over time.
+
+Volatility measures how much and how quickly an asset's price moves. Cryptocurrencies are known for high volatility, meaning large price swings over short periods. Higher volatility means greater potential profit but also greater risk, and it increases the chance of both slippage and liquidation.
+
+Risk management is the practice of limiting how much you can lose on any single trade. A common guideline is to risk only a small percentage of your account, often 1 to 2 percent, on each trade. Position sizing — choosing how large a trade to make based on your stop-loss distance and your risk limit — is the main tool for this. The goal is to survive losing streaks and stay in the game.
+
+The risk/reward ratio compares how much you stand to lose against how much you stand to gain on a trade. A 1:3 risk/reward means risking 1 dollar to potentially make 3. A favorable risk/reward ratio can keep a trader profitable overall even with a win rate below 50 percent, because the winners outweigh the losers.
